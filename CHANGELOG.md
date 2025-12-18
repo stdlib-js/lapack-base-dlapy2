@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-18)
+## Unreleased (2025-12-18)
 
 <section class="features">
 
@@ -16,12 +16,25 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#9128](https://github.com/stdlib-js/stdlib/issues/9128)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`e5d1aaf`](https://github.com/stdlib-js/stdlib/commit/e5d1aaf69f0990a223bdc568ce6894185587b601) - **docs:** fix broken Markdown link [(#9159)](https://github.com/stdlib-js/stdlib/pull/9159) _(by Manit Roy)_
 -   [`962d072`](https://github.com/stdlib-js/stdlib/commit/962d0727294945bd6570dbe2d7e39625f9469d3a) - **feat:** add `lapack/base/dlapy2` [(#7120)](https://github.com/stdlib-js/stdlib/pull/7120) _(by Aayush Khanna, Athan Reines)_
 
 </details>
@@ -34,10 +47,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Manit Roy
 
 </section>
 
