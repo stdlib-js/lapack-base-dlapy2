@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dlapy2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlapy2@deno/mod.js';
+import dlapy2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlapy2@v0.1.0-deno/mod.js';
 ```
 
 #### dlapy2( x, y )
@@ -82,7 +82,7 @@ The function has the following parameters:
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import dlapy2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlapy2@deno/mod.js';
+import dlapy2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlapy2@v0.1.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
